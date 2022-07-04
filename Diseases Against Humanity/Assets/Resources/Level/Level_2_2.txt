@@ -1,0 +1,20 @@
+25x20 5,5,5,5
+
+# River
+3,0  S6 E7 S4 E4 S E10
+
+# Path
+0,15 E5 N2 E N3 E2 N2 E8 S4 W4 N6 E7 N
+
+# Obstacles
+0,0 Building 0
+0,5 Building 1
+20,5 Building 2
+0,15 Building 3
+19,8 Building 5
+8,13 Building 6
+11,14 Tree 2
+18,9 Tree 1
+
+# Research Points
+400

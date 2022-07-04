@@ -1,0 +1,25 @@
+25x20 5,5,5,5
+
+# River
+0,7 E13 N7
+
+# Path
+0,15 E5 N E N E N E N E N E N E2 S E2 N E N E N E N E N E
+
+# Obstacles
+0,0 Building 0
+0,5 Building 1
+20,5 Building 2
+0,15 Building 3
+5,5 Tree 1
+10,5 Tree 0
+9,6 Tree 0
+11,6 Building 12
+11,14 Building 7
+13,13 Building 8
+16,12 Building 9
+18,11 Building 10
+19,10 Building 11
+
+# Research Points
+400

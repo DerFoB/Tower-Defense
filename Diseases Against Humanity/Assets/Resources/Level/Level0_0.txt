@@ -1,0 +1,15 @@
+23x19 1,2,3,4
+
+# River
+0,7 N2 E5 S3 E7 S6
+10,14 N E8 N7 E N2 W N W3 S W S3 E S E2 N2
+
+# Path
+0,14 E7 N8 W3 S4 E7 N6 W3 N3 E2 S4
+
+
+# Obstacles
+
+
+# Random
+gargamel

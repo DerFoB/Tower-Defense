@@ -1,0 +1,28 @@
+23x19 1,2,3,4
+
+# River
+0,7 N2 E5 S3 E7 S6
+10,14 N E8 N7 E N2 W N W3
+
+# Path
+0,14 E7 N8 W3 S4 E7 N6 W3 N3 E2 S4
+
+
+# Obstacles
+7,12 Building
+8,6 Tree
+13,1 Lake
+0,0 Building 0
+5,0 Building 1
+10,0 Building 2
+10,9 Tree 2
+13,9 Tree 2
+9,9 Tree 2
+8,9 Tree 2
+7,9 Tree 2
+
+# Fixes
+0,7 RiverCurveLeftTop
+
+# Random
+gargamel

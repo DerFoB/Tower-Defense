@@ -1,0 +1,34 @@
+25x20 5,5,5,5
+
+# River
+0,9 E2 S2 E3 N2 E3 N3 E4 S E3 N E2 N2 E2 N4 E3
+18,19 N3 W2 N2 W7 N W2 S2 E S E S2 E2 S
+
+# Path
+0,15 E5 N E3 N2 W N4 E7 N3 W3 S5 E S E3 S E S E S E2 N3 W N W N2 E N E N2
+
+# Obstacles
+0,0 Tree 3
+0,5 Tree 4
+20,5 Tree 5
+0,15 Tree 6
+5,4 Tree 0
+5,5 Tree 1
+5,6 Tree 2
+10,13 Tree 8
+11,13 Tree 8
+12,13 Tree 7
+14,13 Tree 8
+10,12 Tree 7
+20,13 Tree 8
+21,13 Tree 8
+19,9 Tree 7
+
+# Research Points
+2000
+
+# Research Points Multiplier
+0 0 500
+
+# Fixes
+23,0 RiverCurveLeftTop

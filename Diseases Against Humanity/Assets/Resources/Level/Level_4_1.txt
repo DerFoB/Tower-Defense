@@ -1,0 +1,26 @@
+25x20 5,5,5,5
+
+# River
+13,19 N2 E3 N3 W2 N3 W N2 W3 S2 W3 N3 E N E3 N E4 S2 E2 S E S3 E S E5
+
+# Path
+0,15 E5 N E3 N4 E3 N2 W N2 W4 S6 E5 S E4 N3 W N5 E2 S5 E3 N5
+
+# Obstacles
+0,0 Tree 3
+0,5 Tree 4
+20,5 Tree 5
+0,15 Tree 6
+17,14 Rock 0
+17,13 Tree 8
+18,13 Tree 7
+11,5 Tree 7
+12,5 Tree 8
+19,4 Tree 8
+19,3 Tree 8
+
+# Research Points
+500
+
+# Research Points Multiplier
+0 0 1000
